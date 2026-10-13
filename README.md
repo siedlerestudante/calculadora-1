@@ -2,7 +2,7 @@
 uma calculadora básica sem interface, estou no inicio ainda.
 desenvolvida em Python
 
-Funcionalidades
+Funcionalidades:
 
 Adição
 
